@@ -43,8 +43,8 @@
 ## 📫 Contact  
 
 - 📧 Email: **vamshikrishnakannaji@gmail.com**  
-- 💼 LinkedIn: **linkedin.com/in/vamshikannaji**  
-- 🐙 GitHub: **github.com/vamshikrishna3011**  
+- 💼 LinkedIn: **www.linkedin.com/in/vamshikannaji**  
+- 🐙 GitHub: **https://github.com/vamshikrishna3011**  
 - 📞 Phone: **+91 6305565572**  
 
 ---
